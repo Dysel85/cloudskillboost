@@ -27,9 +27,9 @@ def hello():
     """Return a friendly HTTP greeting.
 
     Returns:
-        A string with the words 'Hello World!'.
+        A string with the words 'Hello, Cruel World!'.
     """
-    return "Hello World!"
+    return "Hello, Cruel World!"
 
 
 if __name__ == "__main__":
